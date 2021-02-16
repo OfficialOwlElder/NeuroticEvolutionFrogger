@@ -1,4 +1,4 @@
-# monogame-frogger
+# NeuroticEvolutionFrogger
 Frogger game implemented in MonoGame
 
 
